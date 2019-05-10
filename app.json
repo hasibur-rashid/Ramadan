@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "sdkVersion": "28.0.0",
+    "name": "Ramadan",
+    "description": "Ramadan is an clean and beautiful apps for bangladeshi people to know seheri, iftar and salah times of month of ramadan 2019.",
+    "slug": "ramadan",
+    "privacy": "public",
+    "version": "3.2.0",
+    "icon": "./favicon.png",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+	  "isDetached": false,
+    "splash": {
+      "image": "./app-file/asset/ramadan_splash_5.png",
+      "backgroundColor": "#FFFFFF"      
+    },
+    "ios": {
+      "bundleIdentifier": "info.softwareart.ramadan"
+    },
+    "android": {
+      "package": "info.softwareart.ramadan",
+      "versionCode": 5,
+      "permissions":["ACCESS_COARSE_LOCATION"]
+    }
+  }
+}

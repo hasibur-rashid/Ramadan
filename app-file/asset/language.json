@@ -1,0 +1,45 @@
+{
+    "bn" : [
+        {
+            "sheri_ifter_menu" : "সেহরি-ইফতার",
+			"sura_list_menu" : "সূরা সমূহ",
+			"masla_masayel_menu" : "মাসলা-মাসায়েল",
+			"zakat_info_menu" : "যাকাত",
+			
+			"ifter_time" : "ইফতাররে সময়",
+            "sehri_time" : "সাহরির শেষ সময়",
+            "ayat" : "আয়াত",
+            "arrival_location" : "নাজিলের স্থান",
+            "rahmat" : "রহমত",
+            "magfirat" : "মাগফিরাত",
+            "nazat" : "নাজাত",
+            "ramadan" : "রমাদান",
+            "sahrir_somoy_baki" : "সেহরির সময় বাকি",
+            "ifter_ar_somoy_baki" : "ইফতারের সময় বাকি",
+            "ajakr_namaz_ar_somoy" : "আজকের নামাজের সময়সূচি",
+            "fozor" : "ফজর",
+            "juhor" : "জোহর",
+            "asor" : "আছর",
+            "magrib" : "মাগরিব",
+            "esha" : "এশা",
+            "surah_no":"সূরা নম্বর",
+            "sura_list" : "সূরা তালিকা",
+
+            "masla_masayel" : "মাসলা মাসায়েল",
+            "zakat": "যাকাত",
+
+            "select_district" : "জেলা নির্বাচন করুন",
+            "setting_page_text" : "ইফতার এবং সেহরি জন্য সঠিক সময় পেতে আপনার জেলা নির্বাচন করুন।",
+            "submit" : "শুরু করুন",
+            "wakto": "ওয়াক্ত",
+            "wakto_start": "শুরু",
+            "wakto_end": "শেষ",
+            "jamat": "জামাত",
+
+            "loading" : "",
+            "ramadan_1439" : "রমদান ১৪৪০"
+
+            
+        }
+    ]
+}

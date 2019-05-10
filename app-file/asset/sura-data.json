@@ -1,0 +1,482 @@
+{
+   "suraList" : [
+       {
+           "id" : "০১",
+		   "surah_no": "১",
+		   "no_of_ayath": "৭",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"আল ফাতিহা ",
+				"english":"Surah Al-Fatihah"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "بِسْمِ اللّهِ الرَّحْمـَنِ الرَّحِيمِ",
+                   "bangla": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+                   "english": "In the name of Allah, Most Gracious, Most Merciful."
+               },
+               {
+                   "arabic": "الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ",
+                   "bangla": "যাবতীয় প্রশংসা আল্লাহ তা’আলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+                   "english": "Praise be to Allah, the Cherisher and Sustainer of the worlds"
+               },
+			   {
+                   "arabic": "بالرَّحْمـنِ الرَّحِيمِ",
+                   "bangla": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+                   "english": "Most Gracious, Most Merciful."
+               },
+			   {
+                   "arabic": "مَـالِكِ يَوْمِ الدِّينِ",
+                   "bangla": "যিনি বিচার দিনের মালিক।",
+                   "english": "Master of the Day of Judgment."
+               },
+			   {
+                   "arabic": "إِيَّاكَ نَعْبُدُ وإِيَّاكَ نَسْتَعِينُ",
+                   "bangla": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+                   "english": "Thee do we worship, and Thine aid we seek."
+               },
+			   {
+                   "arabic": "اهدِنَــــا الصِّرَاطَ المُستَقِيمَ",
+                   "bangla": "আমাদেরকে সরল পথ দেখাও",
+                   "english": "Show us the straight way,"
+               },
+			   {
+                   "arabic": "صِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّينَ",
+                   "bangla": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।",
+                   "english": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০২",
+		   "surah_no": "১০৫",
+		   "no_of_ayath": "৫",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা ফীল",
+				"english":"Surah Al-Fil"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+                   "bangla": "আপনি কি দেখেননি আপনার পালনকর্তা হস্তীবাহিনীর সাথে কিরূপ ব্যবহার করেছেন?",
+                   "english": "Seest thou not how thy Lord dealt with the Companions of the Elephant?"
+               },
+               {
+                   "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+                   "bangla": "তিনি কি তাদের চক্রান্ত নস্যাৎ করে দেননি?",
+                   "english": "Did He not make their treacherous plan go astray?"
+               },
+			   {
+                   "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+                   "bangla": "তিনি তাদের উপর প্রেরণ করেছেন ঝাঁকে ঝাঁকে পাখী,",
+                   "english": "And He sent against them Flights of Birds,"
+               },
+			   {
+                   "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+                   "bangla": "যারা তাদের উপর পাথরের কংকর নিক্ষেপ করছিল।",
+                   "english": "Striking them with stones of baked clay."
+               },
+			   {
+                   "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+                   "bangla": "অতঃপর তিনি তাদেরকে ভক্ষিত তৃণসদৃশ করে দেন।",
+                   "english": "Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৩",
+		   "surah_no": "১০৬",
+		   "no_of_ayath": "৪",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা কোরাইশ",
+				"english":"Surah Quraish"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "لِإِيلَافِ قُرَيْشٍ",
+                   "bangla": "কোরাইশের আসক্তির কারণে,",
+                   "english": "For the covenants (of security and safeguard enjoyed) by the Quraish,"
+               },
+               {
+                   "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاء وَالصَّيْفِ",
+                   "bangla": "আসক্তির কারণে তাদের শীত ও গ্রীষ্মকালীন সফরের।",
+                   "english": "Their covenants (covering) journeys by winter and summer"
+               },
+			   {
+                   "arabic": "فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ",
+                   "bangla": "অতএব তারা যেন এবাদত করে এই ঘরের পালনকর্তার",
+                   "english": "Let them adore the Lord of this House,"
+               },
+			   {
+                   "arabic": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+                   "bangla": "যিনি তাদেরকে ক্ষুধায় আহার দিয়েছেন এবং যুদ্ধভীতি থেকে তাদেরকে নিরাপদ করেছেন।",
+                   "english": "Who provides them with food against hunger, and with security against fear (of danger)."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৪",
+		   "surah_no": "১০৭",
+		   "no_of_ayath": "৭",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা মাউন",
+				"english":"Surah Al-Ma'un"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+                   "bangla": "আপনি কি দেখেছেন তাকে, যে বিচারদিবসকে মিথ্যা বলে?",
+                   "english": "Seest thou one who denies the Judgment (to come)?"
+               },
+               {
+                   "arabic": "فَذَلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+                   "bangla": "সে সেই ব্যক্তি, যে এতীমকে গলা ধাক্কা দেয়",
+                   "english": "Then such is the (man) who repulses the orphan (with harshness),"
+               },
+			   {
+                   "arabic": "وَلَا يَحُضُّ عَلَى طَعَامِ الْمِسْكِينِ",
+                   "bangla": "এবং মিসকীনকে অন্ন দিতে উৎসাহিত করে না।",
+                   "english": "And encourages not the feeding of the indigent."
+               },
+			   {
+                   "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+                   "bangla": "অতএব দুর্ভোগ সেসব নামাযীর,",
+                   "english": "So woe to the worshippers"
+               },
+			   {
+                   "arabic": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+                   "bangla": "যারা তাদের নামায সম্বন্ধে বে-খবর;",
+                   "english": "Who are neglectful of their prayers,"
+               },
+			   {
+                   "arabic": "الَّذِينَ هُمْ يُرَاؤُونَ",
+                   "bangla": "যারা তা লোক-দেখানোর জন্য করে",
+                   "english": "Those who (want but) to be seen (of men)"
+               },
+			   {
+                   "arabic": "وَيَمْنَعُونَ الْمَاعُونَ",
+                   "bangla": "এবং নিত্য ব্যবহার্য্য বস্তু অন্যকে দেয় না।",
+                   "english": "But refuse (to supply) (even) neighbourly needs."
+               }
+           ]
+       },
+	     
+		 {
+           "id" : "০৫",
+		   "surah_no": "১০৮",
+		   "no_of_ayath": "৩",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা কাওসার ",
+				"english":"Surah Al-Kauthar"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+                   "bangla": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+                   "english": "To thee have We granted the Fount (of Abundance)."
+               },
+               {
+                   "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+                   "bangla": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+                   "english": "Therefore to thy Lord turn in Prayer and Sacrifice."
+               },
+			   {
+                   "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+                   "bangla": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।",
+                   "english": "For he who hateth thee, he will be cut off (from Future Hope)."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৬",
+		   "surah_no": "১০৯",
+		   "no_of_ayath": "৬",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা কাফিরুন",
+				"english":"Surah  Al-Kafirun"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "إقُلْ يَا أَيُّهَا الْكَافِرُونَ",
+                   "bangla": "বলুন, হে কাফেরকূল,",
+                   "english": "Say : O ye that reject Faith!"
+               },
+               {
+                   "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+                   "bangla": "আমি এবাদত করিনা, তোমরা যার এবাদত কর।",
+                   "english": "I worship not that which ye worship,"
+               },
+			   {
+                   "arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+                   "bangla": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+                   "english": "Nor will ye worship that which I worship."
+               },
+			   {
+                   "arabic": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+                   "bangla": "এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।",
+                   "english": "And I will not worship that which ye have been wont to worship,"
+               },
+			   {
+                   "arabic": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+                   "bangla": "তোমরা এবাদতকারী নও, যার এবাদত আমি করি।",
+                   "english": "Nor will ye worship that which I worship."
+               },
+			   {
+                   "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+                   "bangla": "তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।",
+                   "english": "To you be your Way, and to me mine."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৭",
+		   "surah_no": "১১০",
+		   "no_of_ayath": "৩",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা নছর",
+				"english":"Surah An-Nasr "
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "إِذَا جَاء نَصْرُ اللَّهِ وَالْفَتْحُ",
+                   "bangla": "যখন আসবে আল্লাহর সাহায্য ও বিজয়",
+                   "english": "When comes the Help of Allah, and Victory,"
+               },
+               {
+                   "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًاَ",
+                   "bangla": "এবং আপনি মানুষকে দলে দলে আল্লাহর দ্বীনে প্রবেশ করতে দেখবেন,",
+                   "english": "And thou dost see the people enter Allah.s Religion in crowds,"
+               },
+			   {
+                   "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+                   "bangla": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+                   "english": "Nor will ye worship that which I worship."
+               },
+			   {
+                   "arabic": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+                   "bangla": "তখন আপনি আপনার পালনকর্তার পবিত্রতা বর্ণনা করুন এবং তাঁর কাছে ক্ষমা প্রার্থনা করুন। নিশ্চয় তিনি ক্ষমাকারী।",
+                   "english": "Celebrate the praises of thy Lord, and pray for His Forgiveness: For He is Oft-Returning (in Grace and Mercy)."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৮",
+		   "surah_no": "১১১",
+		   "no_of_ayath": "৫",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা লাহাব",
+				"english":"Surah Al-Lahab "
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+                   "bangla": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,",
+                   "english": "Perish the hands of the Father of Flame! Perish he!"
+               },
+               {
+                   "arabic": "مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ",
+                   "bangla": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+                   "english": "No profit to him from all his wealth, and all his gains!"
+               },
+			   {
+                   "arabic": "سَيَصْلَى نَارًا ذَاتَ لَهَبٍ",
+                   "bangla": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+                   "english": "Burnt soon will he be in a Fire of Blazing Flame!"
+               },
+			   {
+                   "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+                   "bangla": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,",
+                   "english": "His wife shall carry the (crackling) wood - As fuel!"
+               },
+			   {
+                   "arabic": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+                   "bangla": "তার গলদেশে খর্জুরের রশি নিয়ে।",
+                   "english": "A twisted rope of palm-leaf fibre round her (own) neck!"
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "০৯",
+		   "surah_no": "১১২",
+		   "no_of_ayath": "৪",
+		   "arrival_location": "মক্কা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা এখলাছ ",
+				"english":"Surah Al-Ikhlas"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+                   "bangla": "বলুন, তিনি আল্লাহ, এক,",
+                   "english": "Say: He is Allah, the One and Only;"
+               },
+               {
+                   "arabic": "اللَّهُ الصَّمَدُ",
+                   "bangla": "আল্লাহ অমুখাপেক্ষী,",
+                   "english": "Allah, the Eternal, Absolute;"
+               },
+			   {
+                   "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+                   "bangla": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+                   "english": "He begetteth not, nor is He begotten;"
+               },
+			   {
+                   "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+                   "bangla": "এবং তার সমতুল্য কেউ নেই।",
+                   "english": "And there is none like unto Him."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "১০",
+		   "surah_no": "১১৩",
+		   "no_of_ayath": "৫",
+		   "arrival_location": "মদিনা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা ফালাক্ব",
+				"english":"Surah Al-Falaq"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+                   "bangla": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের পালনকর্তার,",
+                   "english": "Say: I seek refuge with the Lord of the Dawn"
+               },
+               {
+                   "arabic": "مِن شَرِّ مَا خَلَقَ",
+                   "bangla": "তিনি যা সৃষ্টি করেছেন, তার অনিষ্ট থেকে,",
+                   "english": "From the mischief of created things;"
+               },
+			   {
+                   "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+                   "bangla": "অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা সমাগত হয়,",
+                   "english": "From the mischief of Darkness as it overspreads;"
+               },
+			   {
+                   "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَ",
+                   "bangla": "গ্রন্থিতে ফুঁৎকার দিয়ে জাদুকারিনীদের অনিষ্ট থেকে",
+                   "english": "From the mischief of those who practise secret arts;"
+               },
+			   {
+                   "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+                   "bangla": "এবং হিংসুকের অনিষ্ট থেকে যখন সে হিংসা করে।",
+                   "english": "And from the mischief of the envious one as he practises envy."
+               }
+           ]
+       },
+	   
+	   {
+           "id" : "১১",
+		   "surah_no": "১১৪",
+		   "no_of_ayath": "৬",
+		   "arrival_location": "মদিনা",
+		   
+           "name" :[
+		   {
+				"arabic": "",
+				"bangla":"সূরা নাস",
+				"english":"Surah Al-Nas"
+			}	
+		   ],
+
+           "lines" : [
+               {
+                   "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+                   "bangla": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার,",
+                   "english": "Say: I seek refuge with the Lord and Cherisher of Mankind,"
+               },
+               {
+                   "arabic": "مَلِكِ النَّاسِ",
+                   "bangla": "মানুষের অধিপতির,",
+                   "english": "The King (or Ruler) of Mankind,"
+               },
+			   {
+                   "arabic": "إِلَهِ النَّاسِ",
+                   "bangla": "মানুষের মা’বুদের",
+                   "english": "The Allah (for judge) of Mankind,"
+               },
+			   {
+                   "arabic": "ومِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+                   "bangla": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে,",
+                   "english": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),"
+               },
+			   {
+                   "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+                   "bangla": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+                   "english": "(The same) who whispers into the hearts of Mankind,"
+               },
+			   {
+                   "arabic": "مِنَ الْجِنَّةِ وَ النَّاسِ",
+                   "bangla": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।",
+                   "english": "Among Jinns and among men."
+               }
+			   
+           ]
+       }
+   ]
+}

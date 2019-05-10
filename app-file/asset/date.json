@@ -1,0 +1,220 @@
+{
+   "rahmat": [
+
+    {
+        "day": "০১",
+        "sehri_time": 3.53,
+        "iftar_time": 6.33,
+        "engDate": "07-05-2019",
+		"day_name": "মঙ্গলবার"
+    },
+    {
+        "day": "০২",
+        "sehri_time": 3.52,
+        "iftar_time": 6.34,
+        "engDate": "08-05-2019",
+		"day_name": "বুধবার"
+    },
+    {
+        "day": "০৩",
+        "sehri_time": 3.51,
+        "iftar_time": 6.34,
+        "engDate": "09-05-2019",
+		"day_name": "বৃহস্পতিবার"
+    },
+    {
+        "day": "০৪",
+        "sehri_time": 3.50,
+        "iftar_time": 6.35,
+        "engDate": "10-05-2019",
+		"day_name": "শুক্রবার"
+    },
+    {
+        "day": "০৫",
+        "sehri_time": 3.50,
+        "iftar_time": 6.35,
+        "engDate": "11-05-2019",
+		"day_name": "শনিবার"
+    },
+    {
+        "day": "০৬",
+        "sehri_time": 3.49,
+        "iftar_time": 6.36,
+        "engDate": "12-05-2019",
+		"day_name": "রবিবার"
+    },
+    {
+        "day": "০৭",
+        "sehri_time": 3.49,
+        "iftar_time": 6.36,
+        "engDate": "13-05-2019",
+		"day_name": "সোমবার"
+    },
+    {
+        "day": "০৮",
+        "sehri_time": 3.48,
+        "iftar_time": 6.37,
+        "engDate": "14-05-2019",
+		"day_name": "মঙ্গলবার"
+    },
+    {
+        "day": "০৯",
+        "sehri_time": 3.48,
+        "iftar_time": 6.37,
+        "engDate": "15-05-2019",
+		"day_name": "বুধবার"
+    },
+	{
+        "day": "১০",
+        "sehri_time": 3.47,
+        "iftar_time": 6.38,
+        "engDate": "16-05-2019",
+		"day_name": "বৃহস্পতিবার"
+    }
+],
+"magfirat": [
+
+    {
+        "day": "১১",
+        "sehri_time": 3.47,
+        "iftar_time": 6.38,
+        "engDate": "17-05-2019",
+		"day_name": "শুক্রবার"
+    },
+    {
+        "day": "১২",
+        "sehri_time": 3.46,
+        "iftar_time": 6.39,
+        "engDate": "18-05-2019",
+		"day_name": "শনিবার"
+    },
+    {
+        "day": "১৩",
+        "sehri_time": 3.46,
+        "iftar_time": 6.39,
+        "engDate": "19-05-2019",
+		"day_name": "রবিবার"
+    },
+    {
+        "day": "১৪",
+        "sehri_time": 3.45,
+        "iftar_time": 6.40,
+        "engDate": "20-05-2019",
+		"day_name": "সোমবার"
+    },
+    {
+        "day": "১৫",
+        "sehri_time": 3.44,
+        "iftar_time": 6.40,
+        "engDate": "21-05-2019",
+		"day_name": "মঙ্গলবার"
+    },
+    {
+        "day": "১৬",
+        "sehri_time": 3.43,
+        "iftar_time": 6.41,
+        "engDate": "22-05-2019",
+		"day_name": "বুধবার"
+    },
+    {
+        "day": "১৭",
+        "sehri_time": 3.43,
+        "iftar_time": 6.41,
+        "engDate": "23-05-2019",
+		"day_name": "বৃহস্পতিবার"
+    },
+    {
+        "day": "১৮",
+        "sehri_time": 3.42,
+        "iftar_time": 6.42,
+        "engDate": "24-05-2019",
+		"day_name": "শুক্রবার"
+    },
+    {
+        "day": "১৯",
+        "sehri_time": 3.42,
+        "iftar_time": 6.42,
+        "engDate": "25-05-2019",
+		"day_name": "শনিবার"
+    },
+	{
+        "day": "২০",
+        "sehri_time": 3.41,
+        "iftar_time": 6.43,
+        "engDate": "26-05-2019",
+		"day_name": "রবিবার"
+    }
+],
+"najat": [
+    {
+        "day": "২১",
+        "sehri_time": 3.41,
+        "iftar_time": 6.43,
+        "engDate": "27-05-2019",
+		"day_name": "সোমবার"
+    },
+    {
+        "day": "২২",
+        "sehri_time": 3.40,
+        "iftar_time": 6.44,
+        "engDate": "28-05-2019",
+		"day_name": "মঙ্গলবার"
+    },
+    {
+        "day": "২৩",
+        "sehri_time": 3.40,
+        "iftar_time": 6.44,
+        "engDate": "29-05-2019",
+		"day_name": "বুধবার"
+    },
+    {
+        "day": "২৪",
+        "sehri_time": 3.40,
+        "iftar_time": 6.45,
+        "engDate": "30-05-2019",
+		"day_name": "বৃহস্পতিবার"
+    },
+    {
+        "day": "২৫",
+        "sehri_time": 3.39,
+        "iftar_time": 6.45,
+        "engDate": "31-05-2019",
+		"day_name": "শুক্রবার"
+    },
+    {
+        "day": "২৬",
+        "sehri_time": 3.39,
+        "iftar_time": 6.45,
+        "engDate": "01-06-2019",
+		"day_name": "শনিবার"
+    },
+    {
+        "day": "২৭",
+        "sehri_time": 3.39,
+        "iftar_time": 6.46,
+        "engDate": "02-06-2019",
+		"day_name": "রবিবার"
+    },
+    {
+        "day": "২৮",
+        "sehri_time": 3.38,
+        "iftar_time": 6.46,
+        "engDate": "03-06-2019",
+		"day_name": "সোমবার"
+    },
+    {
+        "day": "২৯",
+        "sehri_time": 3.38,
+        "iftar_time": 6.47,
+        "engDate": "04-06-2019",
+		"day_name": "মঙ্গলবার"
+    },
+	{
+        "day": "৩০",
+        "sehri_time": 3.38,
+        "iftar_time": 6.47,
+        "engDate": "05-06-2019",
+		"day_name": "বুধবার"
+    }
+]
+}

@@ -1,0 +1,328 @@
+{
+  "districts": [
+    {
+      "id" : 1,
+      "name": "বরগুনা",
+      "iftar_time": -0.02,
+      "sehri_time": 0.06
+    },
+    {
+      "id": 2,
+      "name": "বরিশাল",
+      "iftar_time": -0.02,
+      "sehri_time": 0.03
+    },
+    {
+      "id": 3,
+      "name": "ভোলা",
+      "iftar_time": -0.03,
+      "sehri_time": -0.03
+    },
+    {
+      "id": 4,
+      "name": "ঝালকাঠি",
+      "iftar_time": -0.01,
+      "sehri_time": 0.04
+    },
+    { "id" : 5,
+      "name": "পটুয়াখালী",
+      "iftar_time": -0.02,
+      "sehri_time": 0.05
+    },
+    { "id" : 6,
+      "name": "পিরোজপুর",
+      "iftar_time": 0.00,
+      "sehri_time": 0.05
+    },
+    { "id" : 7,
+      "name": "বান্দরবান",
+      "iftar_time": 0.10,
+      "sehri_time": -0.03
+    },
+    { "id" : 8,
+      "name": "ব্রাহ্মণবাড়িয়া",
+      "iftar_time": -0.02,
+      "sehri_time": -0.03
+    },
+    { "id" : 9,
+      "name": "চাঁদপুর",
+      "iftar_time": -0.02,
+      "sehri_time": 0.00
+    },
+    { "id" : 10,
+      "name": "চট্টগ্রাম",
+      "iftar_time": -0.08,
+      "sehri_time": -0.01
+    },
+    { "id" : 11,
+      "name": "কুমিল্লা",
+      "iftar_time": -0.04,
+      "sehri_time": -0.02
+    },
+    { "id" : 12,
+      "name": "কক্সবাজার",
+      "iftar_time": -0.10,
+      "sehri_time": 0.01
+    },
+    { "id" : 13,
+      "name": "ফেনী",
+      "iftar_time": -0.05,
+      "sehri_time": -0.02
+    },
+    { "id" : 14,
+      "name": "খাগড়াছড়ি",
+      "iftar_time": -0.08,
+      "sehri_time": -0.05
+    },
+    { "id" : 15,
+      "name": "লক্ষ্মীপুর",
+      "iftar_time": -0.03,
+      "sehri_time": 0.01
+    },
+    { "id" : 16,
+      "name": "নোয়াখালী",
+      "iftar_time": -0.04,
+      "sehri_time": 0.00
+    },
+    { "id" : 17,
+      "name": "রাঙ্গামাটি",
+      "iftar_time": -0.09,
+      "sehri_time": -0.03
+    },
+    { "id" : 18,
+      "name": "ঢাকা",
+      "iftar_time": 0.00,
+      "sehri_time": 0.00
+    },
+    { "id" : 19,
+      "name": "ফরিদপুর",
+      "iftar_time": 0.02,
+      "sehri_time": 0.03
+    },
+    { "id" : 20,
+      "name": "গাজীপুর",
+      "iftar_time": 0.00,
+      "sehri_time": 0.00
+    },
+    { "id" : 21,
+      "name": "গোপালগঞ্জ",
+      "iftar_time": 0.01,
+      "sehri_time": 0.05
+    },
+    { "id" : 22,
+      "name": "কিশোরগঞ্জ",
+      "iftar_time": 0.00,
+      "sehri_time": -0.03
+    },
+    { "id" : 23,
+      "name": "মাদারীপুর",
+      "iftar_time": 0.00,
+      "sehri_time": 0.03
+    },
+    { "id" : 24,
+      "name": "মানিকগঞ্জ",
+      "iftar_time": 0.02,
+      "sehri_time": 0.02
+    },
+    { "id" : 25,
+      "name": "মুন্সীগঞ্জ",
+      "iftar_time": -0.01,
+      "sehri_time": 0.00
+    },
+    { "id" : 26,
+      "name": "নারায়ণগঞ্জ",
+      "iftar_time": 0.00,
+      "sehri_time": 0.00
+    },
+    { "id" : 27,
+      "name": "নরসিংদী",
+      "iftar_time": -0.01,
+      "sehri_time": -0.01
+    },
+    { "id" : 28,
+      "name": "রাজবাড়ী",
+      "iftar_time": 0.05,
+      "sehri_time": 0.05
+    },
+    { "id" : 29,
+      "name": "শরীয়তপুর",
+      "iftar_time": -0.01,
+      "sehri_time": 0.02
+    },
+    { "id" : 30,
+      "name": "টাঙ্গাইল",
+      "iftar_time": 0.03,
+      "sehri_time": 0.01
+    },
+    { "id" : 31,
+      "name": "বাগেরহাট",
+      "iftar_time": 0.01,
+      "sehri_time": 0.06
+    },
+    { "id" : 32,
+      "name": "চুয়াডাঙ্গা",
+      "iftar_time": 0.06,
+      "sehri_time": 0.07
+    },
+    { "id" : 33,
+      "name": "যশোর",
+      "iftar_time": 0.04,
+      "sehri_time": 0.07
+    },
+    { "id" : 34,
+      "name": "ঝিনাইদহ",
+      "iftar_time": 0.05,
+      "sehri_time": 0.06
+    },
+    { "id" : 35,
+      "name": "খুলনা",
+      "iftar_time": 0.02,
+      "sehri_time": 0.07
+    },
+    { "id" : 36,
+      "name": "কুষ্টিয়া",
+      "iftar_time": 0.05,
+      "sehri_time": 0.05
+    },
+    { "id" : 37,
+      "name": "মাগুরা",
+      "iftar_time": 0.04,
+      "sehri_time": 0.05
+    },
+    { "id" : 38,
+      "name": "মেহেরপুর",
+      "iftar_time": 0.07,
+      "sehri_time": 0.07
+    },
+    { "id" : 39,
+      "name": "নড়াইল",
+      "iftar_time": 0.03,
+      "sehri_time": 0.06
+    },
+    { "id" : 40,
+      "name": "সাতক্ষিরা",
+      "iftar_time": 0.04,
+      "sehri_time": 0.08
+    },
+    { "id" : 41,
+      "name": "জামালপুর",
+      "iftar_time": 0.04,
+      "sehri_time": -0.01
+    },
+    { "id" : 42,
+      "name": "ময়মনসিংহ",
+      "iftar_time": 0.02,
+      "sehri_time": -0.03
+    },
+    { "id" : 43,
+      "name": "নেত্রকোনা",
+      "iftar_time": 0.01,
+      "sehri_time": -0.04
+    },
+    { "id" : 44,
+      "name": "শেরপুর",
+      "iftar_time": 0.04,
+      "sehri_time": -0.02
+    },
+    { "id" : 45,
+      "name": "বগুড়া",
+      "iftar_time": 0.06,
+      "sehri_time": 0.01
+    },
+    { "id" : 46,
+      "name": "চাঁপাই নবাবগঞ্জ",
+      "iftar_time": 0.10,
+      "sehri_time": 0.06
+    },
+    { "id" : 47,
+      "name": "জয়পুরহাট",
+      "iftar_time": 0.08,
+      "sehri_time": 0.02
+    },
+    { "id" : 48,
+      "name": "নওগাঁ",
+      "iftar_time": 0.08,
+      "sehri_time": 0.03
+    },
+    { "id" : 49,
+      "name": "নাটোর",
+      "iftar_time": 0.07,
+      "sehri_time": 0.04
+    },
+    { "id" : 50,
+      "name": "পাবনা",
+      "iftar_time": 0.05,
+      "sehri_time": 0.04
+    },
+    { "id" : 51,
+      "name": "রাজশাহী",
+      "iftar_time": 0.01,
+      "sehri_time": 0.08
+    },
+    { "id" : 52,
+      "name": "সিরাজগঞ্জ",
+      "iftar_time": 0.04,
+      "sehri_time": 0.01
+    },
+    { "id" : 53,
+      "name": "দিনাজপুর",
+      "iftar_time": 0.10,
+      "sehri_time": 0.02
+    },
+    { "id" : 54,
+      "name": "গাইবান্ধা",
+      "iftar_time": 0.06,
+      "sehri_time": -0.01
+    },
+    { "id" : 55,
+      "name": "কুড়িগ্রাম",
+      "iftar_time": 0.07,
+      "sehri_time": -0.02
+    },
+    { "id" : 56,
+      "name": "লালমনিরহাট",
+      "iftar_time": -0.02,
+      "sehri_time": 0.08
+    },
+    { "id" : 57,
+      "name": "নীলফামারী",
+      "iftar_time": 0.00,
+      "sehri_time": 0.10
+    },
+    { "id" : 58,
+      "name": "পঞ্চগড়",
+      "iftar_time": 0.12,
+      "sehri_time": 0.00
+    },
+    { "id" : 59,
+      "name": "রংপুর",
+      "iftar_time": 0.08,
+      "sehri_time": -0.01
+    },
+    { "id" : 60,
+      "name": "ঠাকুরগাঁও",
+      "iftar_time": 0.12,
+      "sehri_time": 2
+    },
+    { "id" : 62,
+      "name": "হবিগঞ্জ",
+      "iftar_time": -0.03,
+      "sehri_time": -0.05
+    },
+    { "id" : 63,
+      "name": "মৌলভীবাজার",
+      "iftar_time": -0.04,
+      "sehri_time": -0.07
+    },
+    { "id" : 64,
+      "name": "সুনামগঞ্জ",
+      "iftar_time": -0.01,
+      "sehri_time": -0.07
+    },
+    { "id" : 65,
+      "name": "সিলেট",
+      "iftar_time": -0.04,
+      "sehri_time": -0.09
+    }
+  ]
+}
