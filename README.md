@@ -20,8 +20,8 @@ Ramadan is a React Native based hybrid mobile application. Ramadan has featured 
 ![](https://iamhasib.files.wordpress.com/2018/07/ramadan_5.png) |![](https://iamhasib.files.wordpress.com/2018/07/ramadan_7.png)|
 
 ### Installation
-  - <strong>Step 1:</strong> Download & Install Node JS, VS Code, React Native(See react native documentation how to install react native )
-  - <strong>Step 2: Install Expo app to your Android phone for live app view
+  - <strong>Step 1:</strong> Download & Install Node JS, VS Code, React Native (See react native documentation how to install react native)
+  - <strong>Step 2:</strong> Install Expo app to your Android phone for live app view
   - <strong>Step 3:</strong> Go to project folder or open project by VS Code or any other editor.
   - <strong>Step 4:</strong> Open Command Window and write this command
     ```
