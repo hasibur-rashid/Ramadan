@@ -1,5 +1,3 @@
-<img src="https://iamhasib.files.wordpress.com/2018/07/ramadan_1.png?w=470&h=260&crop=1" align="middle" />
-
 # Ramadan
 Ramadan is a React Native based hybrid mobile application. Ramadan has featured Sheheri & Ifter schedule, alarm, salah time, surah, hadith, essential dua, zakat, masla-masayel and may more information for the month of Ramadan. More details and feature on https://iamhasib.wordpress.com/portfolio/ramadan-cross-platform-mobile-application/
 
